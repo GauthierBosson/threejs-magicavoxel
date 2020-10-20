@@ -1,0 +1,18 @@
+{
+  "name": "threejs-obj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.121.1",
+    "wwobjloader2": "^2.4.2"
+  },
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.5.0"
+  }
+}
